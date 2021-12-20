@@ -1,5 +1,8 @@
 # Design File is [here](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?node-id=0%3A1)
 
+![Screenshot (141)](https://user-images.githubusercontent.com/85759426/146800106-206ad164-4503-4149-83b7-c8db2ae2a9f2.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
